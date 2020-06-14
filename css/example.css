@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+
+P {
+	width: 300px;
+	padding: 50px;
+	border: 20px solid #0088dd;
+	border-radius: 10px;}
+p.example{
+	margin: 10px auto 10px auto;
+	text-align: left;}
+	
+		
+	
+
